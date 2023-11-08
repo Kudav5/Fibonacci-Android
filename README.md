@@ -1,7 +1,7 @@
 # Deret Fibonacci (Untuk Tugas & UTS)
 
-### palette
+### Palette
 ![foto](other/fotos/palette.png)
 
-### tampilannya
+### Tampilannya
 ![foto](other/fotos/tampil.png)
