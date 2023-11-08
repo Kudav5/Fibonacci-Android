@@ -1,4 +1,4 @@
-# Deret Fibonacci (Untuk Tugas & UTS)
+# Deret Fibonacci
 
 ### Palette
 ![foto](other/fotos/palette.png)
